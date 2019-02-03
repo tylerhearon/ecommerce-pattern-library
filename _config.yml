@@ -1,0 +1,36 @@
+permalink: pretty
+theme: jekyll_patternbot
+
+patternbot:
+  title: "Hearon Body Mods"
+  description: |
+    An online store to offer high quality body jewlery and care products for your stretched ears.
+  rationales:
+    typefaces.primary: |
+      Raleway is the primary typeface throughout the website, used as the body copy and in general, the default font setting for most instances.
+
+      It was chosen for a sleek and modern feel, allowing also for a high level of readability for anyone using the site with visual impairments of any kind.
+    typefaces.secondary: |
+      Saira was the secondary typeface used throughout the site in places of emphasis, such as headings, subtitles and navigation.
+
+      It was chosen also in part for it's readability, however boasts slightly more character within the letterforms themselves, offering a bit more interest and dynamic hierarchical tone to the website where used.
+    colors.primary: |
+      The primary colours used throughout the site (besides the main neutral base) are mainly varieties of forest green. The deep greens evoke feelings of nature and ease. While the brand does sell high quality product in precious metal, the other majority of items include wood, stone and glass.
+
+      These shades will be used throughout distinct areas of the site, such as particular headings, the navigation, footer, and across all main buttons and menues, to set apart visual contrast and establish easy reading dynamics throughout the fonts used in the site.
+    colors.secondary: |
+      The secondary colours are metallic shades, to further highlight the high-quality product. Both literally in the products themselves, and within the brand identity with the public, the metallic shades speak of a higher elegance and a degree of sophisication.
+
+      These are to be used sparingly throughout the site, most often as hover states and in supplementary ways to highlight particular product features or site aspects.
+    colors.accent: |
+      The accent colours are the tonal opposites of the forest green; rich and vibrant purple. Purple has been used by royality in many cultures, and offers a rich contrast to the main colours throughout the site.
+
+      These purples will be used most sparingly of all the palettes, highlighting sale items' updated prices, changes in the website and other important stand out features. They will also be used to offer rich dynacism to font familes and on visual areas across the site, such as buttons and hoverstates.
+    colors.neutral: |
+      The neutrals used throughout the site design are simple and classy. They offer a warm base for the site, contrasting many of the "edgier" brands, which pleasantly matches both the primary forest greens and metallic accent colours used throughout the site.
+
+      These basic tones will truely be used most frequently thoughout the site, making up the backing background and structural base of virutally every aspect of the website, without specifcally being a company colour.
+  colors:
+    background: "--color-neutral-base"
+    patterns:
+  font_url: "https://fonts.googleapis.com/css?family=Raleway:300,400,500|Saira:400,800"

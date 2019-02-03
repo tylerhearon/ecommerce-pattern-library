@@ -1,0 +1,16 @@
+.btn {
+  background-color: var(--color-primary-green);
+  border-color: var(--color-primary-dark-green);
+  color: var(--color-secondary-gold);
+}
+
+.btn:hover {
+  background-color: var(--color-secondary-gold);
+  border-color: var(--color-secondary-rose-gold);
+}
+
+.btn-ghost {
+  background-color: transparent;
+  border-color: #fff;
+  color: #fff;
+}
