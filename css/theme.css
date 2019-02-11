@@ -51,7 +51,16 @@ a:hover {
 
 ul, ol, dl {
   color: var(--color-primary-green);
-  list-style: var(--color-primary-light-green);
+}
+
+ul>li:before {
+  color: var(--color-secondary-gold);
+  font-weight: bold;
+}
+
+ol>li:before {
+  color: var(--color-secondary-gold);
+  font-weight: 300;
 }
 
 mark {

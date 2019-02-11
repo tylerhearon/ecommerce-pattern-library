@@ -1,16 +1,36 @@
 .btn {
   background-color: var(--color-primary-green);
   border-color: var(--color-primary-dark-green);
-  color: var(--color-secondary-gold);
+  color: white;
 }
 
 .btn:hover {
   background-color: var(--color-secondary-gold);
   border-color: var(--color-secondary-rose-gold);
+  color: #000;
 }
 
 .btn-ghost {
   background-color: transparent;
-  border-color: #fff;
+  border-color: var(--color-neutral-midtone);
+  color: var(--color-neutral-midtone);
+  font-weight: 800;
+}
+
+.btn-ghost:hover {
+  background-color: transparent;
+  border-color: var(--color-secondary-silver);
+  color: var(--color-secondary-silver);
+}
+
+.btn-light {
+  background-color: var(--color-primary-light-green);
+  border-color: var(--color-primary-green);
   color: #fff;
+}
+
+.btn-light:hover {
+  background-color: var(--color-secondary-silver);
+  border-color: #999;;
+  color: #999;
 }

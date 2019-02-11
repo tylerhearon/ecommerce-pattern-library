@@ -37,7 +37,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    jekyll_patternbot (1.0.3)
+    jekyll_patternbot (1.4.0)
       babosa (~> 1)
       color_contrast_calc (~> 0.5)
       colorator (~> 1)
@@ -45,7 +45,6 @@ GEM
       deep_merge (~> 1)
       indifference (~> 0.0)
       jekyll (~> 3.8)
-      unicode_titlecase (~> 0.0)
     kramdown (1.17.0)
     liquid (4.0.1)
     listen (3.1.5)
@@ -67,9 +66,6 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    unicode_titlecase (0.0.2)
-      unicode_utils
-    unicode_utils (1.4.0)
 
 PLATFORMS
   ruby

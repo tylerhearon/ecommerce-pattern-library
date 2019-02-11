@@ -4,7 +4,7 @@ theme: jekyll_patternbot
 patternbot:
   title: "Hearon Body Mods"
   description: |
-    An online store to offer high quality body jewlery and care products for your stretched ears.
+    An online store catered to high quality body jewlery and care products for your stretched ears.
   rationales:
     typefaces.primary: |
       Raleway is the primary typeface throughout the website, used as the body copy and in general, the default font setting for most instances.
@@ -23,14 +23,15 @@ patternbot:
 
       These are to be used sparingly throughout the site, most often as hover states and in supplementary ways to highlight particular product features or site aspects.
     colors.accent: |
-      The accent colours are the tonal opposites of the forest green; rich and vibrant purple. Purple has been used by royality in many cultures, and offers a rich contrast to the main colours throughout the site.
+      The accent colours are the tonal opposites of the forest green; rich and vibrant purple. Purple has been used by royality in many cultures, and gives a rich contrast to the main colours throughout the site.
 
-      These purples will be used most sparingly of all the palettes, highlighting sale items' updated prices, changes in the website and other important stand out features. They will also be used to offer rich dynacism to font familes and on visual areas across the site, such as buttons and hoverstates.
+      These purples will be used most sparingly of all the palettes, highlighting sale items' updated prices, changes in the website and other important stand out features. They will also be used to give rich dynacism to font families and on visual areas across the site, such as buttons and hoverstates.
     colors.neutral: |
-      The neutrals used throughout the site design are simple and classy. They offer a warm base for the site, contrasting many of the "edgier" brands, which pleasantly matches both the primary forest greens and metallic accent colours used throughout the site.
+      The neutrals used throughout the site design are simple and classy. They give a warm base for the site, contrasting many of the "edgier" brands, which pleasantly matches both the primary forest greens and metallic accent colours used throughout the site.
 
       These basic tones will truely be used most frequently thoughout the site, making up the backing background and structural base of virutally every aspect of the website, without specifcally being a company colour.
   colors:
     background: "--color-neutral-base"
+    sidebar: "--color-primary-light-green"
     patterns:
   font_url: "https://fonts.googleapis.com/css?family=Raleway:300,400,500|Saira:400,800"
