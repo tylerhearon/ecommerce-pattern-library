@@ -1,7 +1,9 @@
+title: "Forms"
 description: |
-BLAH BLAH.
+  Full form rationale.
+
 patterns:
-  basic:
+  checkout:
     title: "Basic Checkout Form"
     description: |
       BLAH BLAH.
