@@ -1,9 +1,25 @@
 title: "Forms"
 description: |
-  Full form rationale.
+  A selection of example form fields, to be used to build out checkout and other varieties of forms required throughout the website.
 
 patterns:
-  checkout:
-    title: "Basic Checkout Form"
+  basic:
+    title: "Basic Mandatory Form Field"
     description: |
-      BLAH BLAH.
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "26em"
+  optional:
+    title: "Basic Optional Form Field"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "26em"
+  checkbox:
+    title: "Checkout 'Robot' Checkbox"
+    description: |
+      This simple checkbox is representative of a true Captcha code, and ensures no false purchases.
+    width: "26em"
+  datalist:
+    title: "Basic Datalist Selection"
+    description: |
+      This basic datalist function (shown with provinces as examples) allows for selection of a pre-determined set of data, such as the province or country of shipment.
+    width: "26em"
