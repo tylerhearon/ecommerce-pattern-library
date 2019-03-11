@@ -1,8 +1,8 @@
 title: "Footer"
 description: |
-  The basic header navigation that will be used to guide the user through all main pages.
+  The basic footer navigation that will be used to guide the user through all subpages and categories that will be accessible to the viewer.
 
-  The first, and primarily visible, of the navigations, this header provides links to basic neccessities. Users can easily log into an account or access their cart, as well as quickly see the 3 main categories of the Shop itself.
+  The second, and less visible, of the navigations, this footer provides links to all of the other basic pages within the site itself. This includes the subcategories within the shop, contact information for the company, and other side tasks that visitors may need while accessing the site.
 
 patterns:
   footer:

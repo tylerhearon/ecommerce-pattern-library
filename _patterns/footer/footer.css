@@ -1,19 +1,23 @@
 .bottomnav {
   background-color: var(--color-neutral-midtone);
-  background-image: linear-gradient(to top, #c9b69e, var(--color-neutral-midtone));
+  background-image: linear-gradient(to top, var(--color-neutral-darkmidtone), var(--color-neutral-midtone));
   color: var(--color-primary-dark-green);
   font-family: var(--font-primary);
   font-weight: 300;
 }
 
-.bottomwords {
+.bottomlistedlinks {
   background-color: #F7E6D2;
 }
 
 .bottomlink {
-  color: var(--color-primary-dark-green);
+  color: var(--color-primary-green);
   font-family: var(--font-primary);
-  font-weight: 300;
+  font-weight: bold;
+}
+
+.bottomwords {
+  color: var(--color-primary-dark-green);
 }
 
 a:link {

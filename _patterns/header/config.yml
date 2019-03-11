@@ -1,4 +1,4 @@
-title: "Header"
+title: "Header Navigation"
 description: |
   The basic header navigation that will be used to guide the user through all main pages.
 
@@ -7,4 +7,6 @@ description: |
 patterns:
   header:
     title: "Basic Site Navigation Header"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
     width: "65em"

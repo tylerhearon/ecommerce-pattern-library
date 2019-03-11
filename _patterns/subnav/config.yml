@@ -1,0 +1,21 @@
+title: "Secondary Navigations"
+description: |
+  The secondary navigation that will be used to filter the store content to better access content and the users needs.
+
+  This navigation is built to the needs of each of the shop's Category pages, but structured identically. The filters allow for each category of content to be broken down more easily.
+patterns:
+  jewelrynav:
+    title: "Jewelry Filters"
+    width: "20em"
+    description: |
+      This will filter earrings by product type, based on the material that each particular pair is constructed with.
+  apparelnav:
+    title: "Apparel Filters"
+    description: |
+      The apparel section is fairly basic, and offers purely branded materials in several simple designs for each category.
+    width: "20em"
+  accessoriesnav:
+    title: "Accessory Filters"
+    description: |
+      The accessory section includes other jewelry that is not the main focus of the site, such as necklaces and rings, as well as miscellaneous items featured.
+    width: "20em"
