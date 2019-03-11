@@ -1,0 +1,26 @@
+.bottomnav {
+  background-color: var(--color-neutral-midtone);
+  background-image: linear-gradient(to top, #c9b69e, var(--color-neutral-midtone));
+  color: var(--color-primary-dark-green);
+  font-family: var(--font-primary);
+  font-weight: 300;
+}
+
+.bottomwords {
+  background-color: #F7E6D2;
+}
+
+.bottomlink {
+  color: var(--color-primary-dark-green);
+  font-family: var(--font-primary);
+  font-weight: 300;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+ol>li>a:hover {
+  text-decoration: underline;
+  color: var(--color-secondary-silver);
+}

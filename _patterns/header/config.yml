@@ -1,0 +1,10 @@
+title: "Header"
+description: |
+  The basic header navigation that will be used to guide the user through all main pages.
+
+  The first, and primarily visible, of the navigations, this header provides links to basic neccessities. Users can easily log into an account or access their cart, as well as quickly see the 3 main categories of the Shop itself.
+
+patterns:
+  header:
+    title: "Basic Site Navigation Header"
+    width: "65em"

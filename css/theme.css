@@ -1,17 +1,18 @@
 :root {
   --color-primary-green: #596b42;
   --color-primary-light-green: #858a64;
-  --color-primary-dark-green: #2F3823;
+  --color-primary-dark-green: #2f3823;
+  --color-primary-xlight-green: #eaedcc;
 
-  --color-secondary-gold: #f2B152;
-  --color-secondary-rose-gold: #ffbca6;
+  --color-secondary-gold: #ffc74a;
+  --color-secondary-rose-gold: #ffc9a1;
   --color-secondary-silver:  #d3d9e0;
 
   --color-accent-purple: #422757;
   --color-accent-light-purple: #f8f1ff;
   --color-accent-dark-purple: #251630;
 
-  --color-neutral-base: #faf4ef;
+  --color-neutral-base: #f7f0e8;
   --color-neutral-midtone: #e1cbb0;
   --color-neutral-dark: #695b44;
 
@@ -26,12 +27,13 @@ html {
 h1 {
   font-family: var(--font-secondary);
   color: var(--color-primary-light-green);
-  font-weight: 800;
+  font-weight: 700;
 }
 
 h2 {
   font-family: var(--font-secondary);
   color: var(--color-primary-green);
+  font-weight: 400;
 }
 
 h3, h4, h5, h6 {

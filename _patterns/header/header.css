@@ -1,0 +1,36 @@
+.topnav {
+  background-color: var(--color-primary-dark-green);
+  background-image: linear-gradient(to top, #222B15, var(--color-primary-dark-green));
+}
+
+.shopnav {
+  background-color: var(--color-primary-light-green);
+  background-image: linear-gradient(to top, var(--color-primary-green), var(--color-primary-light-green));
+  color: var(--color-primary-dark-green);
+  font-family: var(--font-primary);
+  font-weight: 300;
+}
+
+.toplink {
+  color: var(--color-primary-xlight-green);
+}
+
+.shoplink {
+  color: var(--color-primary-dark-green);
+  font-family: var(--font-primary);
+  font-weight: 300;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+ol>li>a:hover {
+  text-decoration: underline;
+  color: var(--color-secondary-gold);
+}
+
+ul>li>a:hover {
+  text-decoration: underline;
+  color: var(--color-secondary-silver);
+}
