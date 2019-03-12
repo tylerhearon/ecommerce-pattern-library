@@ -1,0 +1,20 @@
+title: "Main Banners"
+description: |
+  A selection of example form fields, to be used to build out checkout and other varieties of forms required throughout the website.
+
+patterns:
+  main:
+    title: "Main Welcome Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "40em"
+  shopbanner:
+    title: "Basic Shop Banner"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "40em"
+  ourstory:
+    title: "Shop History Banner"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "40em"

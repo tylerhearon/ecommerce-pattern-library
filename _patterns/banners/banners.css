@@ -1,0 +1,26 @@
+.bannercontainer {
+  max-width: 45em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bannertitlecontainer {
+  bottom: .25em;
+  right: 3em;
+}
+
+.bannertitle {
+  font-weight: bold;
+  color: white;
+}
+
+.decoration {
+
+}
+
+.decorativediv {
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+}

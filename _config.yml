@@ -9,7 +9,7 @@ patternbot:
     typefaces.primary: |
       Raleway is the primary typeface throughout the website, used as the body copy and in general, the default font setting for most instances.
 
-      It was chosen for a sleek and modern feel, allowing also for a high level of readability for anyone using the site with visual impairments of any kind.
+      It was chosen for a sleek and modern feel, allowing also for a high level of readability for anyone using the site with a visual impairment of any kind.
     typefaces.secondary: |
       Saira was the secondary typeface used throughout the site in places of emphasis, such as headings, subtitles and navigation.
 
