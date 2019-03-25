@@ -1,0 +1,18 @@
+.introbanner {
+  background-color: #f2e6d8;
+}
+
+.lines-light {
+  color: var(--color-neutral-darkmidtone);
+}
+
+.i-chevron {
+  height: 32px;
+  width: 32px;
+  color: var(--color-neutral-base);
+}
+
+.chevroncontainer {
+  right: .15em;
+  bottom: .5em;
+}
