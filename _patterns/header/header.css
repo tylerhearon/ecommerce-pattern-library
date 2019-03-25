@@ -3,6 +3,11 @@
   background-image: linear-gradient(to top, #222B15, var(--color-primary-dark-green));
 }
 
+ol>div>a:hover {
+  text-decoration: underline;
+  color: var(--color-secondary-gold);
+}
+
 .shopnav {
   background-color: var(--color-primary-light-green);
   background-image: linear-gradient(to top, var(--color-primary-green), var(--color-primary-light-green));
@@ -33,4 +38,14 @@ ol>li>a:hover {
 ul>li>a:hover {
   text-decoration: underline;
   color: var(--color-secondary-silver);
+}
+
+.searchicon {
+  color: var(--color-secondary-silver);
+
+}
+
+.searchicon:hover {
+  text-decoration: underline;
+  color: var(--color-secondary-gold);
 }

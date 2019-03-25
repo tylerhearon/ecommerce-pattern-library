@@ -7,7 +7,11 @@
 }
 
 .bottomlistedlinks {
-  background-color: #F7E6D2;
+  background-color: #f2e6d8;
+}
+
+.socialmedia {
+  background-color: #f2e6d8;
 }
 
 .bottomlink {
@@ -27,4 +31,12 @@ a:link {
 ol>li>a:hover {
   text-decoration: underline;
   color: var(--color-secondary-silver);
+}
+
+.iconcolour {
+  color: var(--color-primary-green);
+}
+
+.icon-label {
+  vertical-align: middle;
 }

@@ -13,7 +13,7 @@ patterns:
     description: |
       The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
     width: "26em"
-  checkbox:
+  robotcheckbox:
     title: "Checkout 'Robot' Checkbox"
     description: |
       This simple checkbox is representative of a true Captcha code, and ensures no false purchases.

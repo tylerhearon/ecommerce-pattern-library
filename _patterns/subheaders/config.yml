@@ -1,0 +1,25 @@
+title: "Subheader Banners"
+description: |
+  A selection of example form fields, to be used to build out checkout and other varieties of forms required throughout the website.
+
+patterns:
+  jewelryheader:
+    title: "Jewelry Subheader Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+  apparelheader:
+    title: "Apparel Subheader Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+  accessoriesheader:
+    title: "Bags & Accessories Subheader Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+  mischeader:
+    title: "Miscellaneous Subheader Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
