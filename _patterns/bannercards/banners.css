@@ -1,0 +1,15 @@
+.introbanner {
+  max-width: 30em;
+  background-color: #f2e6d8;
+}
+
+.singlebar {
+  width: 50px;
+  height: 8px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+.bardecoration {
+  margin: auto;
+}

@@ -1,0 +1,45 @@
+title: "Basic Layout Cards"
+description: |
+  A selection of example form fields, to be used to build out checkout and other varieties of forms required throughout the website.
+
+patterns:
+  stonecategory:
+    title: "Material - Stone"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "45em"
+  woodcategory:
+    title: "Material - Wood"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "45em"
+  glasscategory:
+    title: "Material - Glass"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "45em"
+  metalcategory:
+    title: "Material - Metal"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "45em"
+  stoneintro:
+    title: "Material Card - Stone"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "45em"
+  woodintro:
+    title: "Material Card - Wood"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "45em"
+  glassintro:
+    title: "Material Card - Glass"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "45em"
+  metalintro:
+    title: "Material Card - Metal"
+    description: |
+      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+    width: "45em"

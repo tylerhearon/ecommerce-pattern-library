@@ -1,0 +1,29 @@
+.materialsection {
+  background-color: var(--color-neutral-menues);
+}
+
+.materialimg {
+  border: 1px solid var(--color-accent-dark-purple);
+}
+
+.materialslot {
+  padding: .75em;
+}
+
+.itemimg {
+  border: 1px solid var(--color-accent-dark-purple);
+}
+
+.itemslot {
+  padding: .5em;
+}
+
+.itembox {
+  padding: .25em;
+}
+
+.materialbannertitle {
+  font-family: var(--font-primary);
+  font-weight: bold;
+  color: #fff;
+}

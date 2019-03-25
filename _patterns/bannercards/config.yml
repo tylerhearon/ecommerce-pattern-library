@@ -1,0 +1,25 @@
+title: "Banner Cards"
+description: |
+  A selection of example form fields, to be used to build out checkout and other varieties of forms required throughout the website.
+
+patterns:
+  jewelrybanner:
+    title: "Jewelry Banner Card"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "40em"
+  apparelbanner:
+    title: "Apparel Banner Card"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "40em"
+  accessoriesbanner:
+    title: "Accessories Banner Card"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "40em"
+  miscbanner:
+    title: "Miscellaneous Banner Card"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "40em"

@@ -2,6 +2,7 @@
   background-color: var(--color-primary-green);
   border-color: var(--color-primary-dark-green);
   color: white;
+  padding: .35em;
 }
 
 .btn:hover {
@@ -19,8 +20,8 @@
 
 .btn-ghost:hover {
   background-color: transparent;
-  border-color: var(--color-secondary-silver);
-  color: var(--color-secondary-silver);
+  border-color: var(--color-secondary-gold);
+  color: var(--color-secondary-gold);
 }
 
 .btn-light {
