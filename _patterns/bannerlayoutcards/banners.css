@@ -16,3 +16,12 @@
   right: .15em;
   bottom: .5em;
 }
+
+.maxwidth {
+  max-width: 60em;
+  margin: auto;
+}
+
+.mainpagecolor {
+  background-color: var(--color-neutral-base);
+}

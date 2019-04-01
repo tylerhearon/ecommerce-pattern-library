@@ -1,3 +1,7 @@
+.gridbkg {
+  background-color: var(--color-neutral-menues);
+}
+
 .topnav {
   background-color: var(--color-primary-dark-green);
   background-image: linear-gradient(to top, #222B15, var(--color-primary-dark-green));
@@ -42,10 +46,20 @@ ul>li>a:hover {
 
 .searchicon {
   color: var(--color-secondary-silver);
-
+  width: 12px;
+  height: 12px;
 }
 
 .searchicon:hover {
   text-decoration: underline;
   color: var(--color-secondary-gold);
+}
+
+@media only screen and (min-width: 25em) {
+
+  .searchicon {
+    width: 20px;
+    height: 20px;
+  }
+
 }

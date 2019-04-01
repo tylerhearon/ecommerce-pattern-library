@@ -1,7 +1,5 @@
 .bannercontainer {
-  max-width: 45em;
-  margin-left: auto;
-  margin-right: auto;
+  max-width: 50em;
 }
 
 .bannertitlecontainersquare {
@@ -19,6 +17,16 @@
   color: white;
 }
 
+.subbannertitle {
+  font-weight: bold;
+  color: white;
+}
+
+.mainbannertitle {
+  font-weight: bold;
+  color: white;
+}
+
 .decorativediv {
   width: 35px;
   height: 5px;
@@ -30,4 +38,28 @@
   max-width: 15em;
   margin-left: auto;
   margin-right: auto;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .mainbannertitle {
+    font-size: 3.25rem;
+  }
+
+  .subbannertitle {
+    font-size: 2.5rem;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .mainbannertitle {
+    font-size: 4rem;
+  }
+
+  .subbannertitle {
+    font-size: 3rem;
+  }
+
 }

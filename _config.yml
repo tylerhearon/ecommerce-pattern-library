@@ -30,6 +30,9 @@ patternbot:
       The neutrals used throughout the site design are simple and classy. They give a warm base for the site, contrasting many of the "edgier" brands, which pleasantly matches both the primary forest greens and metallic accent colours used throughout the site.
 
       These basic tones will truely be used most frequently thoughout the site, making up the backing background and structural base of virutally every aspect of the website, without specifcally being a company colour.
+  layouts:
+    default: |
+      The default primary layout will be used on almost every page, as it includes the main banner and two main navigations.
   colors:
     background: "--color-neutral-base"
     sidebar: "--color-primary-light-green"
