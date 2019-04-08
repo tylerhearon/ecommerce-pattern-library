@@ -1,45 +1,65 @@
 title: "Banner Layout Cards"
 description: |
-  A selection of example form fields, to be used to build out checkout and other varieties of forms required throughout the website.
+  A selection of banner cards to be used throughout the stores' various sections as informational banners.
+
+  The first half encompasses the main categorization of the store, breaking down into the four major categories of Jewelry, Apparel, Accessories, and Miscellaneous.
+
+  The second set, excluding buttons and therefore used exclusively as headers, are short introductions to the types of jewelry offered in the store, based on material.
 
 patterns:
   jewelrybanner:
     title: "Jewelry Banner Card"
     description: |
-      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+      This is a basic header banner that will be used to lead of the Jewlery category of the Store.
+
+      It contains some brief information about what is sold in this category and a link to explore more.
     width: "35em"
   apparelbanner:
     title: "Apparel Banner Card"
     description: |
-      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+      This is a basic header banner that will be used to lead of the Apparel category of the Store.
+
+      It contains some brief information about what is sold in this category and a link to explore more.
     width: "35em"
   accessoriesbanner:
     title: "Accessories Banner Card"
     description: |
-      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+      This is a basic header banner that will be used to lead of the Accessories category of the Store.
+
+      It contains some brief information about what is sold in this category and a link to explore more.
     width: "35em"
   miscbanner:
     title: "Miscellaneous Banner Card"
     description: |
-      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+      This is a basic header banner that will be used to lead of the Miscellaneous category of the Store.
+
+      It contains some brief information about what is sold in this category and a link to explore more.
     width: "35em"
   stoneintro:
     title: "Material Card - Stone"
     description: |
-      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+      This is an informational banner that will be used to lead of the Stone category of the Jewlery section of the Store.
+
+       It contains basic 'teaser' information about what types of jewlery will be featured in this particular category.
     width: "35em"
   woodintro:
     title: "Material Card - Wood"
     description: |
-      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+      This is an informational banner that will be used to lead of the Wood category of the Jewlery section of the Store.
+
+       It contains basic 'teaser' information about what types of jewlery will be featured in this particular category.
     width: "35em"
   glassintro:
     title: "Material Card - Glass"
     description: |
-      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+      This is an informational banner that will be used to lead of the Glass category of the Jewlery section of the Store.
+
+       It contains basic 'teaser' information about what types of jewlery will be featured in this particular category.
     width: "35em"
   metalintro:
     title: "Material Card - Metal"
     description: |
-      The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
+      This is an informational banner that will be used to lead of the Metal category of the Jewlery section of the Store.
+
+       It contains basic 'teaser' information about what types of jewlery will be featured in this particular category.
     width: "35em"
