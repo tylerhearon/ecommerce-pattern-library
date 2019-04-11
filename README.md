@@ -38,7 +38,7 @@ Website Flowchart - ![flowchart](/assets/flowchart.png)
 
 ## Designing Product Page
 
-The overall design for the Product Page should be executed in the [Product Page file](ecommerce-pattern-library/products.html)
+The overall design for the Product Page should be executed in the [Product Page file.](ecommerce-pattern-library/products.html)
 
 1. Look at references for the Product Page design in the Screenshots folder and/or the Wireframes prepared in the assets folder (linked above)
 2. Look at the Pattern Library '' and '' pages to find the necessary information to place into the checkout page.
@@ -48,7 +48,7 @@ The overall design for the Product Page should be executed in the [Product Page 
 
 ## Designing Checkout Page
 
-The overall design for the Checkout Page should be executed in the [Checkout Page file](ecommerce-pattern-library/checkout.html)
+The overall design for the Checkout Page should be executed in the [Checkout Page file.](ecommerce-pattern-library/checkout.html)
 
 1. Look at references for the Checkout Page design in the Screenshots folder and/or the Wireframes prepared in the assets folder (linked above)
 2. Look at the Pattern Library '' and '' pages to find the necessary information to place into the checkout page.
