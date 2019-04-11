@@ -1,15 +1,59 @@
-title: "Main Banners"
+title: "Assorted Banners"
 description: |
   A selection of main header banner images that will be used throughout the website as the main distinctions between pages.
 
 patterns:
   mainbanner:
-    title: "Main Welcome Banner"
+    title: "Main - Welcome Banner"
     description: |
       The banner that will be used as the header image for the Welcome or Main page.
     width: "40em"
+    fields:
+      - name: heading
+        type: string
+        example: "Welcome ||"
   shopbanner:
-    title: "Basic Shop Banner"
+    title: "Main - Shop Banner"
     description: |
       The banner that will be used as the header image for the main Shop page.
     width: "40em"
+    fields:
+      - name: heading
+        type: string
+        example: "Shop ||"
+  jewelryheader:
+    title: "Subheader - Jewelry Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+    fields:
+      - name: heading
+        type: string
+        example: "Jewelry ||"
+  apparelheader:
+    title: "Subheader - Apparel Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+    fields:
+      - name: heading
+        type: string
+        example: "Apparel ||"
+  accessoriesheader:
+    title: "Subheader - Bags & Accessories Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+    fields:
+      - name: heading
+        type: string
+        example: "Accessories ||"
+  mischeader:
+    title: "Subheader - Miscellaneous Banner"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+    fields:
+      - name: heading
+        type: string
+        example: "Miscellaneous ||"

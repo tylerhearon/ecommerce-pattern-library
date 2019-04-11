@@ -38,3 +38,11 @@ patternbot:
     sidebar: "--color-primary-light-green"
     patterns:
   font_url: "https://fonts.googleapis.com/css?family=Raleway:300,400,500|Saira:400,700"
+  collections:
+    products:
+      output: true
+  defaults:
+  - scope:
+      path: _products
+    values:
+      layout: product
