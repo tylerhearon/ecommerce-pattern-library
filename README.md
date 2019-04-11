@@ -31,3 +31,25 @@ The pattern library is a Jekyll & Patternbot based application that requires a r
 ---
 
 ## Website Design
+
+---
+
+## Designing Product Page
+
+The overall design for the Product Page should be executed in:[product page](ecommerce-pattern-library/products.html)
+
+1. Look at references for the Product Page design in the Screenshots folder and/or the Wireframes prepared in the assets folder (linked above)
+2. Look at the Pattern Library '' and '' pages to find the necessary information to place into the checkout page.
+3. Copy and place corresponding sections.
+
+---
+
+## Designing Checkout Page
+
+The overall design for the Checkout Page should be executed in:[checkout page](ecommerce-pattern-library/checkout.html)
+
+1. Look at references for the Checkout Page design in the Screenshots folder and/or the Wireframes prepared in the assets folder (linked above)
+2. Look at the Pattern Library '' and '' pages to find the necessary information to place into the checkout page.
+3. Copy and place corresponding sections.
+
+---
