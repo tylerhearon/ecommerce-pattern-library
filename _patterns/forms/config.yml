@@ -23,3 +23,8 @@ patterns:
     description: |
       This basic datalist function (shown with provinces as examples) allows for selection of a pre-determined set of data, such as the province or country of shipment.
     width: "26em"
+  postalcode:
+    title: "Basic Postal Code Selection"
+    description: |
+      This basic datalist function (shown with provinces as examples) allows for selection of a pre-determined set of data, such as the province or country of shipment.
+    width: "26em"

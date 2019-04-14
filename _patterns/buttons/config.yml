@@ -12,6 +12,9 @@ patterns:
       - name: heading
         type: string
         example: "||  Read More  ||"
+      - name: url
+        type: url
+        example: "/index/"
   ghost:
     title: "Ghost"
     description: |
@@ -21,6 +24,9 @@ patterns:
       - name: heading
         type: string
         example: "||  Read More ||"
+      - name: url
+        type: url
+        example: "/index/"
   light:
     title: "Light"
     description: |
@@ -30,3 +36,6 @@ patterns:
       - name: heading
         type: string
         example: "||  Read More  ||"
+      - name: url
+        type: url
+        example: "/index/"
