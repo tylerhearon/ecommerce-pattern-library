@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+<div class="grid">
+
+
+  <div class="unit xs-1 m-1-2 island">
+    <div class="">
+      <img class="img-flex productimage" src="/images/baseear.jpg" alt="Basic Ear Image">
+    </div>
+  </div>
+
+
+
+
+  <div class="unit xs-1 m-1-2">
+
+    <!-- PRODUCT DETAIL TITLE GOES HERE.  -->
+    <div class="pad-t push-0">
+      {% pattern storelayoutcards/layouttitle heading="Product #0001" %}
+      <div class="text-center">
+        <i class="icon iconcolour i-32"><svg><use xlink:href="/images/icons.svg#underlines"></use></svg></i>
+      </div>
+    </div>
+
+    <div class="island-1-2">
+      <div class="grid">
+        <!-- Materials -->
+        <div class="unit xs-1 s-1-2 island-1-4 push-1-4">
+          {% pattern productdetails/material %}
+        </div>
+        <!-- Size -->
+        <div class="unit xs-1 s-1-2 island-1-4 push-1-4">
+          {% pattern productdetails/size %}
+        </div>
+      </div>
+      <div class="grid">
+
+        <!-- Quantity  -->
+        <div class="unit xs-1 s-1-2 island-1-4 push-1-4">
+          {% pattern productdetails/quantity %}
+        </div>
+
+
+        <!-- Price -->
+        <div class="unit xs-1 s-1-2 island-1-4 push-1-4">
+          {% pattern productdetails/price value="29.99" %}
+        </div>
+      </div>
+
+
+
+      <div class="text-center island">
+        {% pattern buttons/light link="||  Add to Cart  ||" url="/checkout/" %}
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class=" unit xs-1 text-center island">
+    {% pattern storelayoutcards/layouttitle heading="There's even more to see!" %}
+  </div>
+
+  <div class="grid push-2">
+    <div class="unit xs-1-2 s-1-4 island">
+      {% pattern imagecards/stone %}
+    </div>
+    <div class="unit xs-1-2 s-1-4 island">
+      {% pattern imagecards/wood %}
+    </div>
+    <div class="unit xs-1-2 s-1-4 island">
+      {% pattern imagecards/glass %}
+    </div>
+    <div class="unit xs-1-2 s-1-4 island">
+      {% pattern imagecards/metal %}
+    </div>
+  </div>
+
+
+</div>

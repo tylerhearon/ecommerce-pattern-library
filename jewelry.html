@@ -1,23 +1,90 @@
 ---
 layout: default
 ---
-<div class=" gridbkg pad-t">
-  {% pattern bannercards/jewelrybanner %}
-</div>
 
-<div class="pad-b gridbkg">
-  <div class="grid gutter">
-    <div class="xs-1 l-1-2 island-1-2">
-      {% pattern bannercards/stoneintro %}
+<div class="gridbkgcolour pad-t pad-b">
+  {% pattern banners/jewelryheader heading="Jewelry ||" %}
+</div>
+<div class="gridbkgcolour pad-b">
+  <div class="grid bannercontainer">
+    <div class="marginauto island-1-2 unit x-s-1 s-1-3">
+      {% pattern imagecards/stone %}
     </div>
-    <div class="xs-1 l-1-2 island-1-2">
-      {% pattern bannercards/woodintro %}
+    <div class="unit xs-1 s-2-3">
+      <div class="introtext pad-t-1-2">
+        <p class="text-center introwords push-0">Precious stones and minerals make for distinctly unique natural jewelry for all.</p>
+        <div class="text-center">
+          <i class="icon i-lines gutter underlineicon push">
+            <svg class=""><use xlink:href="/images/icons.svg#underlines"/></svg>
+          </i>
+        </div>
+      </div>
     </div>
-    <div class="xs-1 l-1-2 island-1-2">
-      {% pattern bannercards/glassintro %}
+  </div>
+  <div class="island">
+    {% pattern storelayoutcards/productsgrid %}
+  </div>
+  <div class="text-center push-2">
+    {% pattern buttons/basic link="||  Find More 'Stone'  ||" url="/index/" %}
+  </div>
+  <div class="">
+    {% pattern storelayoutcards/layouttitle heading="Other jewelry categories include ..." %}
+  </div>
+  <div class="grid bannercontainer push">
+    <div class="marginauto island unit x-s-1 s-1-3">
+      {% pattern imagecards/wood %}
     </div>
-    <div class="xs-1 l-1-2 island-1-2">
-      {% pattern bannercards/metalintro %}
+    <div class="unit xs-1 s-2-3">
+      <div class="introtext">
+        <p class="text-center introwords push-0">When a more natural look is desired, carved, polished wood will always work.</p>
+        <div class="text-center">
+          <i class="icon i-lines gutter underlineicon push">
+            <svg class=""><use xlink:href="/images/icons.svg#underlines"/></svg>
+          </i>
+        </div>
+        <div class="text-center">
+          {% pattern buttons/light link="||  Find More in 'Wood' ||" url="/index/" %}
+        </div>
+      </div>
     </div>
+  </div>
+  <div class="grid bannercontainer push">
+    <div class="marginauto island unit x-s-1 s-1-3">
+      {% pattern imagecards/glass %}
+    </div>
+    <div class="unit xs-1 s-2-3">
+      <div class="introtext">
+        <p class="text-center introwords push-0">In a wide selection of jewelry for stretched ears, glass always keeps it classy.</p>
+        <div class="text-center">
+          <i class="icon i-lines gutter underlineicon push">
+            <svg class=""><use xlink:href="/images/icons.svg#underlines"/></svg>
+          </i>
+        </div>
+        <div class="text-center">
+          {% pattern buttons/light link="||  Find More in 'Glass' ||" url="/index/" %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="grid bannercontainer push">
+    <div class="marginauto island unit x-s-1 s-1-3">
+      {% pattern imagecards/metal %}
+    </div>
+    <div class="unit xs-1 s-2-3">
+      <div class="introtext">
+        <p class="text-center introwords push-0">Polished and professional, we offer many options made from precious metals.</p>
+        <div class="text-center">
+          <i class="icon i-lines gutter underlineicon push">
+            <svg class=""><use xlink:href="/images/icons.svg#underlines"/></svg>
+          </i>
+        </div>
+        <div class="text-center">
+          {% pattern buttons/light link="||  Find More in 'Metal' ||" url="/index/" %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="">
+    {% pattern storelayoutcards/layouttitle heading="Find these, apparel and more, in the store." %}
   </div>
 </div>

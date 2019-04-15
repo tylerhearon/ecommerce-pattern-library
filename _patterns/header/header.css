@@ -1,4 +1,4 @@
-.gridbkg {
+.gridbkgcolour {
   background-color: var(--color-neutral-menues);
 }
 
@@ -22,12 +22,13 @@ ol>div>a:hover {
 
 .toplink {
   color: var(--color-primary-xlight-green);
+  font-weight: 700;
 }
 
 .shoplink {
   color: var(--color-primary-dark-green);
   font-family: var(--font-primary);
-  font-weight: 300;
+  font-weight: 400;
 }
 
 a:link {

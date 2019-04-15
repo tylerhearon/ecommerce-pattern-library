@@ -14,6 +14,16 @@ patterns:
 
       It contains some brief information about what is sold in this category and a link to explore more.
     width: "35em"
+    fields:
+      - name: heading
+        type: title
+        example: "Jewelry  ||"
+      - name: link
+        type: link
+        example: "||  Read More  ||"
+      - name: url
+        type: url
+        example: "/jewelry/"
   apparelbanner:
     title: "Apparel Banner Card"
     description: |
@@ -21,6 +31,13 @@ patterns:
 
       It contains some brief information about what is sold in this category and a link to explore more.
     width: "35em"
+    fields:
+      - name: heading
+        type: title
+        example: "Apparel  ||"
+      - name: link
+        type: link
+        example: "||  Read More  ||"
   accessoriesbanner:
     title: "Accessories Banner Card"
     description: |
@@ -28,6 +45,13 @@ patterns:
 
       It contains some brief information about what is sold in this category and a link to explore more.
     width: "35em"
+    fields:
+      - name: heading
+        type: title
+        example: "Accessories  ||"
+      - name: link
+        type: link
+        example: "||  Read More  ||"
   miscbanner:
     title: "Miscellaneous Banner Card"
     description: |
@@ -35,6 +59,13 @@ patterns:
 
       It contains some brief information about what is sold in this category and a link to explore more.
     width: "35em"
+    fields:
+      - name: heading
+        type: title
+        example: "Miscellaneous  ||"
+      - name: link
+        type: link
+        example: "||  Read More  ||"
   stoneintro:
     title: "Material Card - Stone"
     description: |

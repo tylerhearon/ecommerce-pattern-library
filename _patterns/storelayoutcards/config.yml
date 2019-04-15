@@ -23,3 +23,17 @@ patterns:
     description: |
       The second basic form field, these fields are denoted as optional. The information may apply to many, but not all.
     width: "45em"
+  productsgrid:
+    title: "Product Grid"
+    description: |
+      The basic organization of 8 products within the store layout.
+    width: "45em"
+  layouttitle:
+    title: "Variable Title"
+    description: |
+      A basic titling format free of banners that can be adapted and placed throughout.
+    width: "45em"
+    fields:
+    - name: heading
+      type: title
+      example: "Example Passage Title"

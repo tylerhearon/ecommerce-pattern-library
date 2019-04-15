@@ -27,3 +27,15 @@
   font-weight: bold;
   color: #fff;
 }
+
+.i-chevronhover:hover {
+  height: 40px;
+  width: 40px;
+  color: var(--color-secondary-gold);
+}
+
+.i-chevronbighover:hover {
+  height: 60px;
+  width: 60px;
+  color: var(--color-secondary-gold);
+}

@@ -12,9 +12,20 @@
   color: var(--color-neutral-base);
 }
 
+.i-chevronbig {
+  height: 50px;
+  width: 50px;
+  color: var(--color-neutral-base);
+}
+
 .chevroncontainer {
   right: .15em;
   bottom: .5em;
+}
+
+.chevroncontainerbig {
+  right: 2em;
+  bottom: 3em;
 }
 
 .maxwidth {

@@ -9,7 +9,7 @@ patterns:
       A basic button used throughout the site in various instances, from basic confirmation actions to form submissions.
     width: "26em"
     fields:
-      - name: heading
+      - name: link
         type: string
         example: "||  Read More  ||"
       - name: url
@@ -21,7 +21,7 @@ patterns:
       A secondary basic button, most likely used in banners and other locations where there needs to be a more subtle focus on the button itself.
     width: "26em"
     fields:
-      - name: heading
+      - name: link
         type: string
         example: "||  Read More ||"
       - name: url
@@ -33,7 +33,7 @@ patterns:
       Another secondary button, the lighter variety of the basic button is used most sparingly. It is still solid and will not be used in banners, however will most likely be used for smaller, sub-features and actions.
     width: "26em"
     fields:
-      - name: heading
+      - name: link
         type: string
         example: "||  Read More  ||"
       - name: url

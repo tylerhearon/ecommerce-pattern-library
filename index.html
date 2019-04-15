@@ -2,4 +2,27 @@
 layout: default
 ---
 
-<h1 class="text-center island-2 push-0">Fill in the blank!</h1>
+<div class="gridbkgcolour">
+  <div class="pad-t-2">
+    <div class="gutter">
+      <div class="text-center text-upper  pad-t gutter-1-2">
+        <h2 class="normal push-1-2 bold exa">Welcome to Hearon Body Jewelry!</h2>
+      </div>
+    </div>
+    <div class="text-center">
+      <i class="icon iconcolour i-64"><svg><use xlink:href="/images/icons.svg#underlines"></use></svg></i>
+    </div>
+  </div>
+  <div class="island-1-2 max-length">
+    {% pattern bannercards/jewelrybanner heading="Jewelry  ||" link="||  Find More Jewelry ||" url="/jewelry/" %}
+  </div>
+  <div class="island-1-2 max-length">
+    {% pattern bannercards/apparelbanner heading="Apparel  ||" link="||  Find More Apparel ||" url="" %}
+  </div>
+  <div class="island-1-2 max-length">
+    {% pattern bannercards/accessoriesbanner heading="Accessories  ||" link="||  Find More Accessories ||" url="" %}
+  </div>
+  <div class="island-1-2 max-length">
+    {% pattern bannercards/miscbanner heading="Apparel  ||" link="||  Find More Miscellaneous ||" url="" %}
+  </div>
+</div>

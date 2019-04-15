@@ -1,0 +1,29 @@
+title: "Product Details Page"
+description: |
+  A selection of example form fields, to be used to build out checkout and other varieties of forms required throughout the website.
+
+patterns:
+  price:
+    title: "Basic Price"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+    fields:
+      - name: value
+        type: price
+        example: "29.99"
+  material:
+    title: "Basic Material"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+  size:
+    title: "Sizing"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
+  quantity:
+    title: "Quantity"
+    description: |
+      The first of the basic form fields, this is mandatory and thus, requires a valid input before proceeding.
+    width: "30em"
