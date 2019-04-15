@@ -32,7 +32,7 @@ The pattern library is a Jekyll & Patternbot based application that requires a r
 
 ## Website Design
 
-Website Flowchart - ![flowchart](/assets/flowchart.png)
+Website Wireframe -
 
 ---
 

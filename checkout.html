@@ -1,3 +1,25 @@
 ---
 layout: default
 ---
+
+<div class="">
+  {% pattern storelayoutcards/layouttitle heading="Review your Order" %}
+</div>
+<div class="">
+  {% pattern storelayoutcards/layouttitle heading="Shipping Address" %}
+</div>
+<div class="maxwidth-formcards marginauto">
+  {% pattern formcards/basic %}
+</div>
+<div class="">
+  {% pattern storelayoutcards/layouttitle heading="Billing Address" %}
+</div>
+<div class="maxwidth-formcards marginauto">
+  {% pattern formcards/basic %}
+</div>
+<div class="">
+  {% pattern storelayoutcards/layouttitle heading="Payment Information" %}
+</div>
+<div class="maxwidth-formcards marginauto">
+  {% pattern formcards/payment %}
+</div>

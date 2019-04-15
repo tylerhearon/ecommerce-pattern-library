@@ -44,6 +44,11 @@
   margin-right: auto;
 }
 
+.maxwidth-home {
+  max-width: 40em;
+  margin: auto;
+}
+
 @media only screen and (min-width: 38em) {
 
   .mainbannertitle {
